@@ -21,7 +21,7 @@ Here are the key files in this project:
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone <repository-link>
+   git clone (https://github.com/SachinPundir78/Premier)
    ```
    Or simply click **Download ZIP**.
 
